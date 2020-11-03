@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39086412140",
+    "firebase_url": "https://paypark-a5cc4.firebaseio.com",
+    "project_id": "paypark-a5cc4",
+    "storage_bucket": "paypark-a5cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39086412140:android:9792b00c8062fdb4d26349",
+        "android_client_info": {
+          "package_name": "com.example.paypark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39086412140-d16om9ri2sgn3nvul44fqsr68piu527i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZipJFOEDL4SAcqXRorZ5nUSYFdMym41w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39086412140-d16om9ri2sgn3nvul44fqsr68piu527i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
